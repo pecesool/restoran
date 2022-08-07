@@ -1,0 +1,15 @@
+C:\Users\peces\source\repos\restoran\restoran\bin\Debug\restoran.exe.config
+C:\Users\peces\source\repos\restoran\restoran\bin\Debug\restoran.exe
+C:\Users\peces\source\repos\restoran\restoran\bin\Debug\restoran.pdb
+C:\Users\peces\source\repos\restoran\restoran\obj\Debug\restoran.csproj.AssemblyReference.cache
+C:\Users\peces\source\repos\restoran\restoran\obj\Debug\restoran.authorization.resources
+C:\Users\peces\source\repos\restoran\restoran\obj\Debug\restoran.main.resources
+C:\Users\peces\source\repos\restoran\restoran\obj\Debug\restoran.menu.resources
+C:\Users\peces\source\repos\restoran\restoran\obj\Debug\restoran.poisk.resources
+C:\Users\peces\source\repos\restoran\restoran\obj\Debug\restoran.zakaz.resources
+C:\Users\peces\source\repos\restoran\restoran\obj\Debug\restoran.Properties.Resources.resources
+C:\Users\peces\source\repos\restoran\restoran\obj\Debug\restoran.registration.resources
+C:\Users\peces\source\repos\restoran\restoran\obj\Debug\restoran.csproj.GenerateResource.cache
+C:\Users\peces\source\repos\restoran\restoran\obj\Debug\restoran.csproj.CoreCompileInputs.cache
+C:\Users\peces\source\repos\restoran\restoran\obj\Debug\restoran.exe
+C:\Users\peces\source\repos\restoran\restoran\obj\Debug\restoran.pdb
